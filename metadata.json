@@ -1,0 +1,8 @@
+{
+  "name": "Área Azul Digital Frutal",
+  "description": "Aplicativo oficial de estacionamento rotativo para a cidade de Frutal, com tecnologia FLOWPARKING - SIGV.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
